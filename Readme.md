@@ -24,7 +24,7 @@ Import data to shope
     This implemention inmemory only 
     but easy for switching with other database
     Only support 1 concurrent request at a time
-    -> Need provide sharing by id and locking mechainsm
+    -> Need provide sharing by productid and locking mechainsm
 
     
 # Future Improve
